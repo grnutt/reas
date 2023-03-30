@@ -1,0 +1,39 @@
+body { 
+
+	margin: 0; 
+	background-color: #56F03A;
+	font-family:helvetica;
+	line-height: 30px;
+}
+
+
+Header { 
+	text-align: center;
+	font-size: larger;
+	background-color:#3D95D0;
+	padding: 50px; 
+
+}
+
+header h2{
+	text-align: center;
+}
+header p {text-align: left;}
+
+header img{
+	border-radius: 250px;
+    border: 10px solid grey;
+}
+
+main {padding: 10px;}
+
+ul{font-size:20px;}
+
+p {font-size:20px}
+
+footer{
+	text-align: center;
+	font-size: larger;
+	background-color:#3D95D0;
+	padding: 50px
+}
