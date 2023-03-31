@@ -8,7 +8,6 @@ body {
 	padding: 25px;
 }
 
-
 Header { 
 	text-align: center;
 	font-size: larger;
@@ -20,7 +19,11 @@ Header {
 header h2{
 	text-align: center;
 }
-header p {text-align: left;}
+header p {
+	text-align: center;
+
+
+}
 
 header img{
 	border-radius: 250px;
